@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Movie Explorer</string>
+    <string name="enter_now">Enter now</string>
+    <string name="watch_everything_you_want_for_free">Watch everything you want for free!</string>
+    <string name="onboarding">ONBOARDING</string>
+    <string name="search_for_a_content">Search for a content</string>
+    <string name="categories">Categories</string>
+    <string name="most_searched">Most Searched</string>
 </resources>
